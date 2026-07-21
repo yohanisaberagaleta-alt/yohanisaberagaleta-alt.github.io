@@ -35,8 +35,7 @@ let i = 0;
 
 const title = document.querySelector("header p");
 
-title.innerHTML = "";
-
+title.innerHTML = ""
 
 function typeEffect(){
 
